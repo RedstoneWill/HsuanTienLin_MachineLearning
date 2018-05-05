@@ -102,22 +102,18 @@
 
 ![这里写图片描述](https://img-blog.csdn.net/20180422232008634?)
 
-## 资源网盘
+## 最后
 
-以上所有的资源我都已经发布在了百度云盘上，需要的童鞋可以自行获取！
-
-链接：https://pan.baidu.com/s/13GjUE9b9TMT0UfMINncRoA 密码：30p0
-
-## 如何获取资源
-
-目前，笔者为大家整理了机器学习基石所有的视频、笔记、书籍等资源。获取的方式很简单，只需关注微信公众号：AI有道（ID: redstonewill），后台回复：“**基石资源**” 即可。
-
-还等什么，赶紧领取吧～希望笔者的这些资料能够对你有一点点帮助。这样，也是笔者的一大快事！
-
-微信公众号二维码在此！
+如果觉得我的分享对你有用，那么就star一下吧～同时，也欢迎大家关注我的微信公众号：AI有道（ID: redstonewill）。我会一如既往发布更多更好的文章给大家！
 
 ![这里写图片描述](https://img-blog.csdn.net/20180422232547537?)
 
+**我的所有主页：**
 
+>我的网站：[红色石头的机器学习之路](https://redstonewill.github.io/)
+>我的CSDN：[红色石头的专栏](http://blog.csdn.net/red_stone1)
+>我的知乎：[红色石头](https://www.zhihu.com/people/red_stone_wl)
+>我的微博：[RedstoneWill的微博](http://weibo.com/redstonewill)
+>我的微信公众号：AI有道（ID：redstonewill）
 
 
