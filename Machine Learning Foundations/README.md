@@ -98,22 +98,21 @@
 
 ![这里写图片描述](https://img-blog.csdn.net/20180422231523620?)
 
-这本书的pdf版本也放在了百度云盘上。
-
-![这里写图片描述](https://img-blog.csdn.net/20180422232008634?)
-
 ## 最后
 
-如果觉得我的分享对你有用，那么就star一下吧～同时，也欢迎大家关注我的微信公众号：AI有道（ID: redstonewill）。我会一如既往发布更多更好的文章给大家！
+如果觉得我的分享对你有用，那么就**star**一下吧～同时，也欢迎大家关注我的微信公众号：AI有道（ID: redstonewill）。我会一如既往发布更多更好的文章给大家！一起学习，共同进步！
 
 ![这里写图片描述](https://img-blog.csdn.net/20180422232547537?)
 
-**我的所有主页：**
+**个人主页：**
 
 >我的网站：[红色石头的机器学习之路](https://redstonewill.github.io/)
->我的CSDN：[红色石头的专栏](http://blog.csdn.net/red_stone1)
->我的知乎：[红色石头](https://www.zhihu.com/people/red_stone_wl)
->我的微博：[RedstoneWill的微博](http://weibo.com/redstonewill)
->我的微信公众号：AI有道（ID：redstonewill）
 
+>我的CSDN：[红色石头的专栏](http://blog.csdn.net/red_stone1)
+
+>我的知乎：[红色石头](https://www.zhihu.com/people/red_stone_wl)
+
+>我的微博：[RedstoneWill的微博](http://weibo.com/redstonewill)
+
+>我的微信公众号：AI有道（ID：redstonewill）
 
