@@ -4,9 +4,9 @@
 
 ## 课程介绍
 
-台湾大学林轩田老师的《机器学习基石》课程由浅入深、内容全面，基本涵盖了机器学习领域的很多方面。其作为机器学习的入门和进阶资料非常适合。而且林老师的教学风格也很幽默风趣，总让读者在轻松愉快的氛围中掌握知识。在此，笔者将把这门课的所有视频、笔记、书籍等详细资料分享给大家。
+台湾大学林轩田老师曾在coursera上开设了两门机器学习经典课程：《机器学习基石》和《机器学习技法》。《机器学习基石》课程由浅入深、内容全面，基本涵盖了机器学习领域的很多方面。其作为机器学习的入门和进阶资料非常适合。《机器学习技法》课程主要介绍了机器学习领域经典的一些算法，包括支持向量机、决策树、随机森林、神经网络等等。林老师的教学风格也很幽默风趣，总让读者在轻松愉快的氛围中掌握知识。在此，笔者将把这两门课的所有视频、笔记、书籍等详细资料分享给大家。
 
-首先附上这门课的主页：
+首先附上这两门课的主页：
 
 [Hsuan-Tien Lin 机器学习基石](https://www.csie.ntu.edu.tw/~htlin/)
 
@@ -14,11 +14,15 @@
 
 [机器学习基石（林轩田）](https://www.bilibili.com/video/av12463015/)
 
+[机器学习技法（林轩田）](https://www.bilibili.com/video/av12469267/)
+
 ## 课程内容
+
+### 《机器学习基石》
 
 这门课主要涉及机器学习关键问题的四个方面：
 
--  **When Can Machine Learn?**
+- **When Can Machine Learn?**
 
 - **Why Can Machine Learn?**
 
@@ -67,6 +71,56 @@
 	- Validation
 
 	- Three Learning Principles
+	
+### 《机器学习技法》
+
+这门课主要涉及机器学习经典算法的三个方面：
+
+- **Embedding Numerous Features: Kernel Models**
+
+- **Combining Predictive Features: Aggregation Models**
+
+- **Distilling Implicit Features: Extraction Models**
+
+总共有16节课。具体所有课程内容如下：
+
+- **Embedding Numerous Features: Kernel Models**
+	
+	- Linear Support Vector Machine
+
+	- Dual Support Vector Machine
+
+	- Kernel Support Vector Machine
+
+	- Soft-Margin Support Vector Machine
+	
+	- Kernel Logistic Regression
+	
+	- Support Vector Regression
+
+- **Combining Predictive Features: Aggregation Models**
+
+	- Blending and Bagging
+
+	- Adaptive Boosting
+
+	- Decision Tree
+
+	- Random Forest
+	
+	- Gradient Boosted Decision Tree
+
+- **Distilling Implicit Features: Extraction Models**
+
+	- Neural Network
+
+	- Deep Learning
+
+	- Radial Basis Function Network
+
+	- Matrix Factorization
+	
+	- Finale
 
 ## 资源汇总
 
