@@ -131,7 +131,7 @@
 两门课所有的教学视频都存放在百度云盘上，方便转存、下载。包括视频对应的教学ppt（pdf形式）。
 
 **机器学习基石：**
-链接：https://pan.baidu.com/s/1Cb-FbdrD5OqfrSkWYEGvUA 密码：sqv2
+链接：https://pan.baidu.com/s/13GjUE9b9TMT0UfMINncRoA 密码：30p0
 
 **机器学习技法：**
 链接：https://pan.baidu.com/s/1yKN3UkDeSLyMVfNkq1qHOg 密码：vm0d
