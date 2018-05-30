@@ -130,9 +130,11 @@
 
 两门课所有的教学视频都存放在百度云盘上，方便转存、下载。包括视频对应的教学ppt（pdf形式）。
 
-![这里写图片描述](https://img-blog.csdn.net/20180422225542142?)
+**机器学习基石：**
+链接：https://pan.baidu.com/s/1Cb-FbdrD5OqfrSkWYEGvUA 密码：sqv2
 
-![这里写图片描述](https://img-blog.csdn.net/20180422225615173?)
+**机器学习技法：**
+链接：https://pan.baidu.com/s/1yKN3UkDeSLyMVfNkq1qHOg 密码：vm0d
 
 ### 课程笔记
 
@@ -158,7 +160,7 @@
 
 ## 最后
 
-如果觉得我的分享对你有用，那么就**Star**和**Fork**一下吧～同时，也欢迎大家关注我的微信公众号：AI有道（ID: redstonewill）。我会一如既往发布更多更好的文章给大家！一起学习，共同进步！
+如果觉得我的分享对你有用，那么就**Star**一下吧～同时，也欢迎大家关注我的微信公众号：AI有道（ID: redstonewill）。我会一如既往发布更多更好的文章给大家！一起学习，共同进步！
 
 ![这里写图片描述](https://img-blog.csdn.net/20180422232547537?)
 
