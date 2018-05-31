@@ -134,7 +134,7 @@
 链接：https://pan.baidu.com/s/13GjUE9b9TMT0UfMINncRoA 密码：30p0
 
 **机器学习技法：**
-链接：https://pan.baidu.com/s/1WWbEjBWZ6PG7-NtzScCNig 密码：nh16
+链接：https://pan.baidu.com/s/1mGJJGF3Fq3B41mlenzOzCQ 密码：2xf2
 
 ### 课程笔记
 
