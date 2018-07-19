@@ -74,7 +74,7 @@
 
 完整的16节课程视频都存放在百度云盘上，方便转存、下载。包括视频对应的教学ppt（pdf形式）。
 
-链接：https://pan.baidu.com/s/1yTAcp1hAAbijGf7heLBWeg 密码：jdhe
+链接：https://pan.baidu.com/s/1jTZTSk7FygJKomT1ZBvxng 密码：m6e6
 
 ![这里写图片描述](https://img-blog.csdn.net/20180422225542142?)
 
