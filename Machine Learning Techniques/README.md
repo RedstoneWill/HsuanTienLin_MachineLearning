@@ -1,6 +1,4 @@
 # NTU-HsuanTienLin-MachineLearning
-
-![这里写图片描述](https://img-blog.csdn.net/20180422222512666?)
 	
 ## 《机器学习技法》
 
