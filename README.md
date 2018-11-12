@@ -12,7 +12,7 @@
 
 课程视频在B站上可以直接观看哦～这里附上传送门：
 
-[机器学习基石（林轩田）](https://www.bilibili.com/video/av12463015/)
+[机器学习基石（林轩田）](https://www.bilibili.com/video/av1624332)
 
 [机器学习技法（林轩田）](https://www.bilibili.com/video/av12469267/)
 
