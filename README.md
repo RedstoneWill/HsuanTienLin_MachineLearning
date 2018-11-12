@@ -168,14 +168,9 @@
 
 **个人主页：**
 
->我的网站：[红色石头的机器学习之路](https://redstonewill.github.io/)
-
->我的CSDN：[红色石头的专栏](http://blog.csdn.net/red_stone1)
-
->我的知乎：[红色石头](https://www.zhihu.com/people/red_stone_wl)
-
->我的微博：[RedstoneWill的微博](http://weibo.com/redstonewill)
-
+>我的网站：[redstonewill.com](redstonewill.com)
+>我的CSDN：[http://blog.csdn.net/red_stone1](http://blog.csdn.net/red_stone1)
+>我的知乎：[https://www.zhihu.com/people/red_stone_wl](https://www.zhihu.com/people/red_stone_wl)
 >我的微信公众号：AI有道（ID：redstonewill）
 
 
