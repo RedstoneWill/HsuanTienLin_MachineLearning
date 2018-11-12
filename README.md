@@ -168,9 +168,12 @@
 
 **个人主页：**
 
->我的网站：[redstonewill.com](redstonewill.com)
+>我的网站：[http://redstonewill.com/](http://redstonewill.com/)
+
 >我的CSDN：[http://blog.csdn.net/red_stone1](http://blog.csdn.net/red_stone1)
+
 >我的知乎：[https://www.zhihu.com/people/red_stone_wl](https://www.zhihu.com/people/red_stone_wl)
+
 >我的微信公众号：AI有道（ID：redstonewill）
 
 
