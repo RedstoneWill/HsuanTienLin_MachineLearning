@@ -1,8 +1,6 @@
-# NTU-HsuanTienLin-MachineLearning
+# NTU-HsuanTienLin-MachineLearning（林轩田机器学习）
 
-<center>
 ![](images/1.jpg)
-</center>
 
 ## 1. 课程介绍
 
