@@ -140,13 +140,9 @@
 
 这是笔者最用心整理也是花的时间最多的，读者可以边看视频边看我的笔记，希望能给读者提供微薄之力。所有精炼笔记都已发布在个人主页上。但是为了便于大家线下阅读，特此将笔记的pdf文件全都发布在github上，可供查阅和打印。
 
-<center>
 ![](images/3.png)
-</center>
 
-<center>
 ![](images/4.png)
-</center>
 
 另外，我已经把完整的林轩田机器学习笔记整理成一个pdf文件，就放在项目根目录下了。
 
@@ -156,53 +152,41 @@
 
 [Learning From Data](http://amlbook.com/)
 
-<center>
 ![](images/5.jpg)
-</center>
 
 豆瓣上关于这本书的评分高达9.4，还是很不错的，值得推荐！可以配套视频一起学习。
 
-<center>
 ![](images/6.jpg)
-</center>
 
 机器学习技法对这本书添加了一些章节，作为扩展。原书和附加章节均放在本项目中。
 
-<center>
 ![](images/7.png)
-</center>
 
 ### 4 完整下载
 
 该GitHub项目中完整的资源均已整理好，方便大家免费下载。想要获得离线资源的可以在公众号：**AI有道（ID: redstonewill）**后台回复：**Lin**，即可获取。
 
-<center>
 ![](images/8.jpg)
-</center>
 
 ## 5. 最后
 
 如果觉得我的分享对你有用，那么就**Star**一下吧～同时，也欢迎大家关注我的微信公众号：**AI有道（ID: redstonewill）**。我会一如既往发布更多更好的文章给大家！一起学习，共同进步！
 
-<center>
 ![](images/8.jpg)
-</center>
 
 同时，也欢迎加入AI有道QQ群，进行交流：
 
-<center>
 ![](images/9.jpg)
-</center>
 
-**个人主页：**
+## 个人主页
 
-公众号：AI有道（ID：redstonewill）
+**公众号**：AI有道（ID：redstonewill）
 
-博客：[http://redstonewill.com/](http://redstonewill.com/)
+**博客**：[http://redstonewill.com/](http://redstonewill.com/)
 
-知乎：[https://www.zhihu.com/people/red_stone_wl](https://www.zhihu.com/people/red_stone_wl)
+**知乎**：[https://www.zhihu.com/people/red_stone_wl](https://www.zhihu.com/people/red_stone_wl)
 
-微博：[AI有道](https://weibo.com/aiyoudao?from=profile&wvr=6)
+**微博**：[AI有道](https://weibo.com/aiyoudao?from=profile&wvr=6)
 
 
 
